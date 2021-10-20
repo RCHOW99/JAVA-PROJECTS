@@ -1,0 +1,8 @@
+5
+1,Electricity,Jan 01 2021,250,Feb 01 2021
+2,Gas,Jan 02 2021,100,Feb 02 2021
+3,Water,Jan 03 2021,90,Feb 03 2021
+4,Internet,Jan 04 2021,75,Feb 04 2021
+5,Food,Jan 05 2021,300,Feb 05 2021
+
+

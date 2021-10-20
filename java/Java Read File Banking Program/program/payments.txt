@@ -1,0 +1,6 @@
+5
+1,credit,Chase Visa,Chowdhury,CC4321!,!1234,Jan 01 2021,173
+2,credit,Bank Of America MasterCard,Chowdhury,CC6345@,@5436,Jan 02 2021,100
+3,credit,Discover Rewards Card,Chowdhury,CC3132%,%2313,Jan 03 2021,90
+4,debit,Chase Bank Account,Chowdhury,DC3221#,#1223,Jan 04 2021,71
+5,debit,Bank Of America Account,Chowdhury,DC8765$,$5678,Jan 05 2021,267
